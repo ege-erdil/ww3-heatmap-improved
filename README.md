@@ -10,4 +10,4 @@ A Colaboratory setup is [available here](https://colab.research.google.com/drive
 
 ## Dependencies
 
-The data is fetched from Metaculus using the ergo library which is available at https://ergo.ought.org/en/latest/metaculus.html. Unfortunately there is currently a problem with the jaxlib dependency of ergo on Windows installations, so if you want to run the script in its entirety and don't have access to a Unix machine, you can use the Colaboratory setup.
+The data is fetched from Metaculus using the ergo library which is available at https://ergo.ought.org/en/latest/metaculus.html along with instructions on how to install it. Unfortunately there is currently a problem with the jaxlib dependency of ergo on Windows installations, so if you want to run the script in its entirety and don't have access to a Unix machine, you can use the Colaboratory setup.
